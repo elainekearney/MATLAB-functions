@@ -1,0 +1,9 @@
+
+# hidden files (starting with a period) except for the .gitignore file
+.*
+!/.gitignore
+
+# temporary files
+*DS_Store
+*.m~
+*.asv
