@@ -5,7 +5,7 @@ function age = calcAge()
 %
 % OUTPUT      age in years
 %
-% Developed by Elaine Kearney (elaine-kearney.com)
+% Developed by Elaine Kearney, Jul 2021 (elaine-kearney.com)
 % Matlab 2020b
 
 % dialog setup
